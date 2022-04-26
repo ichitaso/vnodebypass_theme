@@ -6,4 +6,4 @@ Section: Themes
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Icon theme for vnodebypass app.
-Icon: 
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png

@@ -1,0 +1,9 @@
+Author: ichitaso
+Maintainer: ichitaso
+Package: com.ichitaso.vnodebypass-theme
+Name: vnodebypass theme
+Section: Themes
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Icon theme for vnodebypass app.
+Icon: 
